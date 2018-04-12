@@ -11,7 +11,8 @@ To use add https://github.com/Grishberg/InstrumentationTestsAnnotationPrinter to
 Sample project https://github.com/Grigory-Rylov/Android-Intsrumentation-Test-Example/tree/android_test_task
 
 
-To use with single test use command line parameter -PtestClass=com.test.SomeClassWithTests
+To use with single test use command line parameter `-PtestClass=com.test.SomeClassWithTests`
+
 Copyright 2017 Grigory Rylov
 
 Licensed under the Apache License, Version 2.0 (the "License");
